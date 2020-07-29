@@ -1,1 +1,2 @@
 Creating Local files,then pushing it on a server.
+Now creating second changes on a server than sinhronizing it with a lolal repo.
